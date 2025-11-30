@@ -57,7 +57,7 @@ LoginBloc.login(
   }
 }); ```
 ```
-#2 Proses Registrasi
+# 2 Proses Registrasi
 ## Halaman Registrasi
 Kode Registrasi```
 RegistrasiBloc.registrasi(
